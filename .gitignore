@@ -135,7 +135,8 @@ __marimo__/
 __MACOSX/
 .AppleDouble
 .LSOverride
-Icon[]
+Icon[
+]
 
 ._*
 
@@ -154,7 +155,8 @@ Icon[]
 .file
 .disk_label*
 lost+found
-.HFS+ Private Directory Data[]
+.HFS+ Private Directory Data[
+]
 
 .AppleDB
 .AppleDesktop
