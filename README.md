@@ -8,11 +8,11 @@
 
 <p align="left">
   <b>Languages</b> <br />
-    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,markdown,swift,bash,cpp,r" /> <br /> <br />
+    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,markdown,latex,swift,java,go,rust,bash,cpp,r,pkl,clojure,ruby" /> <br /> <br />
   <b> Web</b>  <br />
-    <img src="https://skillicons.dev/icons?i=astro,vite,nextjs,d3,threejs,electron,nodejs,bun,tailwind" /> <br /> <br />
-  <b> Other needed tools </b>  <br />
-    <img src="https://skillicons.dev/icons?i=aws,cloudflare,netlify,vercel,docker,git,linux,mysql,postgres" /> <br /> <br />
+    <img src="https://skillicons.dev/icons?i=astro,vite,nextjs,d3,threejs,electron,nodejs,bun,tailwind,express,flask,django,fastapi,nginx" /> <br /> <br />
+  <b> Other tools </b>  <br />
+    <img src="https://skillicons.dev/icons?i=aws,cloudflare,netlify,vercel,docker,git,linux,mysql,postgres,jenkins,github,heroku" /> <br /> <br />
 </p>
 
 ![Static Badge](https://img.shields.io/badge/Powered_by-Coffee-green) ![Static Badge](https://img.shields.io/badge/Contains-Spagetti_Code-blue) ![GitHub last commit](https://img.shields.io/github/last-commit/verylongdelay/verylongdelay)
