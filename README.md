@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/verylongdelay/verylongdelay/master/assets/Hi.gif" width="30px">
+# Hi there <img src="https://raw.githubusercontent.com/verylongdelay/verylongdelay/master/assets/hi.gif" width="30px">
 
 ### <img src="https://komarev.com/ghpvc/?username=verylongdelay&abbreviated=true" align="right">
 
@@ -8,7 +8,7 @@
 
 <p align="left">
   <b>Languages</b> <br />
-    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,swift,bash,cpp,r" /> <br /> <br />
+    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,markdown,swift,bash,cpp,r" /> <br /> <br />
   <b> Web</b>  <br />
     <img src="https://skillicons.dev/icons?i=astro,vite,nextjs,d3,threejs,electron,nodejs,bun,tailwind" /> <br /> <br />
   <b> Other needed tools </b>  <br />
