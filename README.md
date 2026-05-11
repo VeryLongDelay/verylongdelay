@@ -4,4 +4,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verylongdelay&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Static Badge](https://img.shields.io/badge/Powered_by-Coffee-green) ![Static Badge](https://img.shields.io/badge/Contains-Tasty_Spagetti_code-blue) ![GitHub last commit](https://img.shields.io/github/last-commit/verylongdelay/verylongdelay)
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,css,react,bootstrap,html,astro,vite,nodejs,mongodb,mysql,postgres,fastapi,docker,kubernetes,flask,sklearn,pytorch,tensorflow,linux,git,opencv,bun,vim,netlify,cloudflare,vercel" />
+</p>
+
+![Static Badge](https://img.shields.io/badge/Powered_by-Coffee-green) ![Static Badge](https://img.shields.io/badge/Contains-Spagetti_Code-blue) ![GitHub last commit](https://img.shields.io/github/last-commit/verylongdelay/verylongdelay)
