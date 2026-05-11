@@ -1,3 +1,5 @@
+# Hi there <img src="https://raw.githubusercontent.com/verylongdelay/verylongdelay/master/assets/Hi.gif" width="30px">
+
 ### <img src="https://komarev.com/ghpvc/?username=verylongdelay&abbreviated=true" align="right">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=VeryLongDelay;Self-taught+Full+stack+Web/App+dev;Open+source+software+enthusiast)](https://git.io/typing-svg)
