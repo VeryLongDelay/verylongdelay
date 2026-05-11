@@ -6,13 +6,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verylongdelay&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="center">Languages and Tools:</h3>
-  <p align="center">
-    <b>Languages<b/> <br />
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,swift,bash,cpp,r" /> <br /> <br />
-    <b> Web<b/>  <br />
-  <img src="https://skillicons.dev/icons?i=astro,vite,nextjs,d3,threejs,electron,nodejs,bun,tailwind" /> <br /> <br />
-    <b> Other needed tools <b/>  <br />
-  <img src="https://skillicons.dev/icons?i=aws,cloudflare,netlify,vercel,docker,git,linux,mysql,postgres" /> <br /> <br />
+<p align="left">
+  <b>Languages</b> <br />
+    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,swift,bash,cpp,r" /> <br /> <br />
+  <b> Web</b>  <br />
+    <img src="https://skillicons.dev/icons?i=astro,vite,nextjs,d3,threejs,electron,nodejs,bun,tailwind" /> <br /> <br />
+  <b> Other needed tools </b>  <br />
+    <img src="https://skillicons.dev/icons?i=aws,cloudflare,netlify,vercel,docker,git,linux,mysql,postgres" /> <br /> <br />
+</p>
 
 ![Static Badge](https://img.shields.io/badge/Powered_by-Coffee-green) ![Static Badge](https://img.shields.io/badge/Contains-Spagetti_Code-blue) ![GitHub last commit](https://img.shields.io/github/last-commit/verylongdelay/verylongdelay)
